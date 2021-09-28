@@ -1,3 +1,3 @@
 # ABot
 
-oops the description is the Repository name lol
+ABot is a python shell made by RouxOrCfopStudios.
